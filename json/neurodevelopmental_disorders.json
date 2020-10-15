@@ -1,0 +1,161 @@
+{
+    "disorder_type": "Neurodevelopmental disorders",
+    "disorder_categories": [
+        {
+        "category": "Intellectual Disabilities",
+        "subcategories": 
+        [{
+            "subcategory": "Intellectual Disability (Intellectual Developmental Disorder)",
+            "icd_9_cm": "319",
+            "icd_10_cm": ""
+        },
+        {
+            "subcategory": "Global Development Delay",
+            "icd_9_cm": "315.8",
+            "icd_10_cm": "F88"
+        },
+        {
+            "subcategory": "Unspecified Intellectual Disability (Intellectual Developmental Disorder)",
+            "icd_9_cm": "319",
+            "icd_10_cm": "F79"
+        }]
+    }, 
+    {
+        "category": "Communication Disorders",
+        "subcategories":
+        [{
+            "subcategory": "Language Disorder",
+            "icd_9_cm": "315.39",
+            "icd_10_cm": "F80.9"
+        }, 
+        {
+            "subcategory": "Speech Sound Disorder",
+            "icd_9_cm": "315.39",
+            "icd_10_cm": "F80.0"
+        }, 
+        {
+            "subcategory": "Childhoot-Onset Fluency Disorder (Stuttering)",
+            "icd_9_cm": "315.35",
+            "icd_10_cm": "F80.81"
+        }, 
+        {
+            "subcategory": "Social (Pragmatic) Communication Disorder",
+            "icd_9_cm": "315.39",
+            "icd_10_cm": "F80.89"
+        },
+        {
+            "subcategory": "Unspecified Communication Disorder",
+            "icd_9_cm": "307.9",
+            "icd_10_cm": "F80.9"
+        }]
+    },
+    {
+        "category": "Autism Spectrum Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "Autism Spectrum Disorder",
+            "icd_9_cm": "299.00",
+            "icd_10_cm": "F84.0"
+        }]
+    },
+    {
+        "category": "Attention-Deficit/Hyperactivity Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "Attention-Deficit/Hyperactivity Disorder",
+            "icd_9_cm": "",
+            "icd_10_cm": ""
+        }, 
+        {
+            "subcategory": "Other Specified Attention-Deficit/Hyperactivity Disorder",
+            "icd_9_cm": "314.01",
+            "icd_10_cm": "F90.8"
+        },
+        {
+            "subcategory": "Unspecified Attention-Deficit/Hyperactivity Disorder",
+            "icd_9_cm": "314.01",
+            "icd_10_cm": "F90.9"
+        }]
+    },
+    {
+        "category": "Specific Learning Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "Specific Learning Disorder",
+            "icd_9_cm": "",
+            "icd_10_cm": ""
+        }, 
+        {
+            "subcategory": "With impairment in reading (specify if with word reading accuracy, reading rate or fluency, reading comprehension",
+            "icd_9_cm": "315.00",
+            "icd_10_cm": "F81.0"
+        },
+        {
+            "subcategory": "With impairment in written expression (specify if with spelling accuracy, grammar and punctuation accuracy, clarity or organization of written expression",
+            "icd_9_cm": "315.2",
+            "icd_10_cm": "F81.81"
+        }, 
+        {
+            "subcategory": "With impairment in mathematics (specify if with number sense, memorization of arithmetic facts, accurate or fluent calculation, accurate math reasoning)",
+            "icd_9_cm": "315.1",
+            "icd_10_cm": "F81.2"
+        }]
+    },
+    {
+        "category": "Motor Disorders",
+        "subcategories": 
+        [{
+            "subcategory": "Developmental Coordination Disorder",
+            "icd_9_cm": "315.4",
+            "icd_10_cm": "F82"
+        }, 
+        {
+            "subcategory": "Stereotypic Movement Disorder",
+            "icd_9_cm": "307.3",
+            "icd_10_cm": "F95.2"
+        }]
+    },
+    {
+        "category": "Tic Disorders",
+        "subcategories": 
+        [{
+            "subcategory": "Tourette's Disorder",
+            "icd_9_cm": "307.23",
+            "icd_10_cm": "F95.1"
+        },
+        {
+            "subcategory": "Persistent (Chronic) Motor or Vocal Tic Disorder",
+            "icd_9_cm": "307.22",
+            "icd_10_cm": "F95.1"
+        },
+        {
+            "subcategory": "Provisional Tic Disorder",
+            "icd_9_cm": "307.21",
+            "icd_10_cm": "F95.0"
+        },
+        {
+            "subcategory": "Other Specified Tic Disorder",
+            "icd_9_cm": "307.20",
+            "icd_10_cm": "F95.8"
+        }, 
+        {
+            "subcategory": "Unspecified Tic Disorder",
+            "icd_9_cm": "307.20",
+            "icd_10_cm": "F95.9"
+        }]
+    },
+    {
+        "category": "Other Neurodevelopmental Disorders",
+        "subcategories": 
+        [{
+            "subcategory": "Other Specified Neurodevelopmental Disorder",
+            "icd_9_cm": "315.8",
+            "icd_10_cm": "F88"
+        },
+        {
+            "subcategory": "Unspecified Neurodevelopmental Disorder",
+            "icd_9_cm": "315.9",
+            "icd_10_cm": "F89"
+        }]
+    }]
+}        

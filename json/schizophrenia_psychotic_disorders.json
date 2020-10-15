@@ -1,0 +1,211 @@
+{
+    "disorder_type": "Schizophrenia Spectrum and Other Psychotic Disorders",
+    "disorder_categories": 
+    [{
+        "category": "Schizotypal Personality Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "",
+            "icd_9_cm": "301.22",
+            "icd_10_cm": "F21"
+        }]
+    },
+    {
+        "category": "Delusional Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "Erotomanic type",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        }, 
+        {
+            "subcategory": "Grandiose type",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        }, 
+        {
+            "subcategory": "Jealous Type",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        }, 
+        {
+            "subcategory": "Somatic Type",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        },
+        {
+            "subcategory": "Mixed Type",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        },
+        {
+            "subcategory": "Unspecified",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        },
+        {
+            "subcategory": "With bizarre content",
+            "icd_9_cm": "297.1",
+            "icd_10_cm": "F22"
+        }]
+    },
+    {
+        "category": "Brief Psychotic Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "With marked stressor(s)",
+            "icd_9_cm": "298.8",
+            "icd_10_cm": "F23"
+        },
+        {
+            "subcategory": "Without marked stressor(s)",
+            "icd_9_cm": "298.8",
+            "icd_10_cm": "F23"
+        },
+        {
+            "subcategory": "With postpartum onset",
+            "icd_9_cm": "298.8",
+            "icd_10_cm": "F23"
+        }]
+    },
+    {
+        "category": "Schizophreniform Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "With good prognostic features",
+            "icd_9_cm": "295.40",
+            "icd_10_cm": "F20.81"
+        },
+        {
+            "subcategory": "Without good prognostic features",
+            "icd_9_cm": "298.8",
+            "icd_10_cm": "F23"
+        }]
+    },
+    {
+        "category": "Schizophrenia",
+        "subcategories": 
+        [{
+            "subcategory": "First episode, currently in acute episode",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "First episode, currently in partial remission",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "First episode, currently in full remission",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "Multiple episodes, currently in acute episode",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "Multiple episodes, currently in partial remission",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "Multiple episodes, currently in full remission",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "Continuous",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "Unspecified",
+            "icd_9_cm": "295.90",
+            "icd_10_cm": "F20.9"
+        },
+        {
+            "subcategory": "With catatonia",
+            "icd_9_cm": "295.90 -> Additional code 293.89",
+            "icd_10_cm": "F20.9 -> Additional Code F06.1 "
+        }]
+    },
+    {
+        "category": "Schizoaffective Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "Bipolar type",
+            "icd_9_cm": "295.70",
+            "icd_10_cm": "F25.0"
+        },
+        {
+            "subcategory": "Depressive type",
+            "icd_9_cm": "295.70",
+            "icd_10_cm": "F25.1"
+        }]
+    },
+    {
+        "category": "Substance/Medication-Induce3d Psychotic Disorder",
+        "subcategories": []
+    },
+    {
+        "category": "Psychotic Disorder Due to Another Medical Condition",
+        "subcategories": 
+        [{
+            "subcategory": "With delusions",
+            "icd_9_cm": "293.81",
+            "icd_10_cm": "F06.2"
+        },
+        {
+            "subcategory": "With hallucinations",
+            "icd_9_cm": "293.82",
+            "icd_10_cm": "293.82"
+        }]
+    },
+    {
+        "category": "Catatonia Associated With Another Mental Disorder (Catatonia Specifier)",
+        "subcategories": 
+        [{
+            "subcategory": "",
+            "icd_9_cm": "293.89",
+            "icd_10_cm": "F06.1"
+        }]
+    },
+    {
+        "category": "Catatonic Disorder Due To Another Medical Condition",
+        "subcategories":
+        [{
+            "subcategory": "",
+            "icd_9_cm": "293.89",
+            "icd_10_cm": "F06.1"
+        }]
+    },
+    {
+        "category": "Unspecified Catatonia",
+        "subcategories": 
+        [{
+            "subcategory": "",
+            "icd_9_cm": "293.89",
+            "icd_10_cm": "F06.1"
+        }]
+    },
+    {
+        "category": "Other Specified Schizophrenia Spectrum and Other Psychotic Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "",
+            "icd_9_cm": "298.8",
+            "icd_10_cm": "F28"
+        }]
+    },
+    {
+        "category": "Unspecified Schizophrenia Spectrum and Other Psychotic Disorder",
+        "subcategories": 
+        [{
+            "subcategory": "",
+            "icd_9_cm": "298.9",
+            "icd_10_cm": "F29"
+        }]
+    }]
+}
