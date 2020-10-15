@@ -31,7 +31,9 @@ router.get('/disorders', async (req, res) => {
   */
 
 router.get('/disorders/:disorder_type', async (req,res) => {
+    
     var disorderId = "";
+
     switch (req.params.disorder_type) {
         case "neuro":
             disorderId = "5f858d7faed5e42e8411c8d3"
